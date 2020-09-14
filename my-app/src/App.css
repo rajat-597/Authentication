@@ -1,0 +1,30 @@
+ 
+.navheader{      
+    margin-top: 10px;      
+    color :black !important;      
+    background-color: #b3beca;     
+  }    
+  .center{
+      text-align: center;
+      margin: auto;
+  }
+  .item{
+      padding: 9px 35px;
+      margin: 10px;
+  }
+  .logo{
+      font-size: 1rem;
+  }
+  .align{
+      display:flex;
+      list-style: none;
+      background-color: blueviolet;
+
+  }
+  .align2{
+    padding-right:5px ;
+    margin: 5px 15px;
+    padding-bottom: 10px;
+    font-size: 1.5rem;
+    text-decoration: none;
+  }
